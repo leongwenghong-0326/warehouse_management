@@ -168,7 +168,7 @@ Stock quantity is treated as critical financial ledger data:
 | **Admin** | `admin` | `admin123` | Full control: items, movements, reports, user accounts |
 | **User** | `user` | `user123` | Read-only: catalog search, bin locations, history tracking |
 
-> 💡 **Tip:** On the login page, you can click either account row inside the **Development Demo Accounts** box to auto-fill the credentials instantly.
+> 💡 **Tip:** On the login page, you can click either account row inside the **Development Demo Accounts** box to auto-fill the credentials instantly.  
 > ⚠️ **Notice:** Change default passwords immediately upon deploying to a public production server.
 
 ---
@@ -245,5 +245,3 @@ graph TD
 ## License
 
 This project is open-source and licensed under the [MIT License](LICENSE).
-#   w a r e h o u s e _ m a n a g e m e n t  
- 
