@@ -1,0 +1,30 @@
+# Sensitive Configuration Credentials
+config/config.php
+
+# Environment & Private Variables
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs & Temporary Files
+*.log
+error_log
+temp/
+tmp/
+scratch/
+.system_generated/
+
+# Composer / NPM (if used in future)
+vendor/
+node_modules/

@@ -1,0 +1,11 @@
+# Disable directory browsing
+Options -Indexes
+
+# Protect hidden files and folders
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Character encoding
+AddDefaultCharset UTF-8
